@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.4548f303.chunk.css",
-    "main.js": "/static/js/main.95f7f67c.chunk.js",
-    "main.js.map": "/static/js/main.95f7f67c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.37e10e2f.chunk.js": "/static/js/2.37e10e2f.chunk.js",
-    "static/js/2.37e10e2f.chunk.js.map": "/static/js/2.37e10e2f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8d4b65ff070ea3de7989f0d6301d4d06.js": "/precache-manifest.8d4b65ff070ea3de7989f0d6301d4d06.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.4548f303.chunk.css.map": "/static/css/main.4548f303.chunk.css.map",
-    "static/js/2.37e10e2f.chunk.js.LICENSE.txt": "/static/js/2.37e10e2f.chunk.js.LICENSE.txt",
-    "static/media/cover.png": "/static/media/cover.ee8a0757.png",
-    "static/media/logo.png": "/static/media/logo.c002ab50.png"
+    "main.css": "/cutlipdevelopment/static/css/main.4548f303.chunk.css",
+    "main.js": "/cutlipdevelopment/static/js/main.3e1be33b.chunk.js",
+    "main.js.map": "/cutlipdevelopment/static/js/main.3e1be33b.chunk.js.map",
+    "runtime-main.js": "/cutlipdevelopment/static/js/runtime-main.19005db7.js",
+    "runtime-main.js.map": "/cutlipdevelopment/static/js/runtime-main.19005db7.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/cutlipdevelopment/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.37e10e2f.chunk.js": "/cutlipdevelopment/static/js/2.37e10e2f.chunk.js",
+    "static/js/2.37e10e2f.chunk.js.map": "/cutlipdevelopment/static/js/2.37e10e2f.chunk.js.map",
+    "index.html": "/cutlipdevelopment/index.html",
+    "precache-manifest.4a44ed6f1ae3b9847e0f1941841c1477.js": "/cutlipdevelopment/precache-manifest.4a44ed6f1ae3b9847e0f1941841c1477.js",
+    "service-worker.js": "/cutlipdevelopment/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/cutlipdevelopment/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.4548f303.chunk.css.map": "/cutlipdevelopment/static/css/main.4548f303.chunk.css.map",
+    "static/js/2.37e10e2f.chunk.js.LICENSE.txt": "/cutlipdevelopment/static/js/2.37e10e2f.chunk.js.LICENSE.txt",
+    "static/media/cover.png": "/cutlipdevelopment/static/media/cover.ee8a0757.png",
+    "static/media/logo.png": "/cutlipdevelopment/static/media/logo.c002ab50.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/runtime-main.19005db7.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.37e10e2f.chunk.js",
     "static/css/main.4548f303.chunk.css",
-    "static/js/main.95f7f67c.chunk.js"
+    "static/js/main.3e1be33b.chunk.js"
   ]
 }
