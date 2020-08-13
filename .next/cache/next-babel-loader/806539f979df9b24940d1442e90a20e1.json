@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport { Container } from 'react-bootstrap';\n\nfunction LabelInfo(props) {\n  return __jsx(Container, {\n    fluid: \"md\"\n  }, __jsx(\"p\", null, props.label), __jsx(\"p\", null, props.info));\n}\n\nexport default LabelInfo;","map":null,"metadata":{},"sourceType":"module"}
