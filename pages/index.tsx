@@ -4,12 +4,11 @@ import Link from 'next/link'
 import StyledSectionButton from '../components/StyledSectionButton';
 import ButtonContainer from '../components/ButtonContainer';
 import StyledJumbo from '../components/StyledJumbo';
-import StyledContainer from '../components/StyledContainer';
 import Head from 'next/head';
 import Layout from '../components/Layout';
 import TextBox from '../components/TextBox';
 
-const Home: React.FunctionComponent<{}> = (props) => {
+const Home: React.FunctionComponent<{}> = () => {
     const welcome = [
         "I am a developer that could work for you.",
         "I am a computer science student that wants to learn and but his skills to use.",

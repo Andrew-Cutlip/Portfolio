@@ -11,7 +11,7 @@ import BackgroundSection from '../components/BackgroundSection';
 import StyledContainer from '../components/StyledContainer';
 import StyledH1, {StyledH2} from '../components/StyledHeadings';
 
-const Contact: React.FunctionComponent<{}> = (props) => {
+const Contact: React.FunctionComponent<{}> = () => {
     const contact = [
         <LabelInfo label="Email Address:" info="andrewcutlip@cutlipdevelopment.com" key="0" />,
         <a href="mailto:andrewcutlip@cutlipdevelopment.com" target="_blank" key="1">Send Me an Email</a>
