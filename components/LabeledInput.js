@@ -10,7 +10,7 @@ const LabeledInput = (props) => {
         <StyledFieldSet>
             <StyledLabel htmlFor={props.id}>{props.name}</StyledLabel>
             {ask}
-            <StyledInput id={props.id} required={props.required} type={props.type} placeholder={props.placeholder} name={props.id} />
+            <StyledInput id={props.id} required={props.required} type={props.type} placeholder={props.placeholder} name={props.id} onChange={props.onChange} />
         </StyledFieldSet>
     )
 }

@@ -10,7 +10,7 @@ const LabeledTextArea = (props) => {
         <StyledFieldSet controlId={props.id}>
             <StyledLabel htmlFor={props.id}>{props.name}</StyledLabel>
             {ask}
-            <StyledTextArea id={props.id} placeholder={props.placeholder} required={props.required} name={props.id} />
+            <StyledTextArea id={props.id} placeholder={props.placeholder} required={props.required} name={props.id} onChange={props.onChange} />
         </StyledFieldSet>
     )
 }

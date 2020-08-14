@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nconst StyledForm = styled.form`\n    display: block;\n    margin-top: 0em;\n    width : 100%;\n    background-color : ${props => props.bg};\n`;\nexport default StyledForm;","map":null,"metadata":{},"sourceType":"module"}

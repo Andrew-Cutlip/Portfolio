@@ -19,7 +19,7 @@ const StyledTitle = styled.h5`
     margin-bottom: .75rem;
     font-weight: 500;
     line-height: 1.2;
-    font-size: 1.25rem
+    font-size: 1.25rem;
 `
 const StyledSubtitle = styled.h6`
         margin-bottom: 0;
@@ -63,7 +63,7 @@ const MyCard = (props) => {
         flush = true;
     }
     if (props.body) {
-        body = <StyledText>{props.body}</StyledText>
+        body = props.body;
     }
     if (props.bodyBg){
         bodyBg = props.bodyBg;

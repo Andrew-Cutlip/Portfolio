@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nconst StyledRow = styled.div`\n    display: flex;\n    flex-wrap: wrap;\n    margin-right: -5px;\n    margin-left: -5px;\n`;\nexport default StyledRow;","map":null,"metadata":{},"sourceType":"module"}
