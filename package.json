@@ -29,7 +29,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "engines" : {
-    "node" : "v10.19.0"
+  "engines": {
+    "node": "v10.19.0"
   }
 }
